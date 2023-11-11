@@ -24,14 +24,14 @@
 **В репозитории также имеется файл юпитерского ноутбука, в котором была попытка провести EDA и выбрать оптимальный алгоритм и гиперпараметры модели. На самом деле это сильно обрезанный вариант, я перебирал многие при выполнении итогового проекта по МОМО, в данном файле указан лучший. К сожалению, даже лучшее из того, что у меня получилось, имеет крайне низкую метрику, но времени на дальнейшие эксперименты, увы, не осталось.**
 
 Ниже привожу некоторые скрины работы моего конвейера в Airflow и его выгрузку в MLflow:
-![Image alt](https://github.com/YaRoLit/Airflow_MLflow/Screenshots/airflow_4.png)
+![Image alt](https://github.com/YaRoLit/Airflow_MLflow/raw/main/Screenshots/airflow_4.png)
 
-![Image alt](https://github.com/YaRoLit/Airflow_MLflow/Screenshots/airflow.png)
+![Image alt](https://github.com/YaRoLit/Airflow_MLflow/raw/main/Screenshots/airflow.png)
 
-![Image alt](https://github.com/YaRoLit/Airflow_MLflow/Screenshots/airflow_2.png)
+![Image alt](https://github.com/YaRoLit/Airflow_MLflow/raw/main/Screenshots/airflow_2.png)
 
-![Image alt](https://github.com/YaRoLit/Airflow_MLflow/Screenshots/airflow_3.png)
+![Image alt](https://github.com/YaRoLit/Airflow_MLflow/raw/main/Screenshots/airflow_3.png)
 
-![Image alt](https://github.com/YaRoLit/Airflow_MLflow/Screenshots/mlflow_1.png)
+![Image alt](https://github.com/YaRoLit/Airflow_MLflow/raw/main/Screenshots/mlflow_1.png)
 
-![Image alt](https://github.com/YaRoLit/Airflow_MLflow/Screenshots/mlflow_2.png)
+![Image alt](https://github.com/YaRoLit/Airflow_MLflow/raw/main/Screenshots/mlflow_2.png)
