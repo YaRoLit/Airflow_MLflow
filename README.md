@@ -28,9 +28,9 @@
 
 ![Image alt](https://github.com/YaRoLit/Airflow_MLflow/raw/main/Screenshots/airflow.png)
 
-![Image alt](https://github.com/YaRoLit/Airflow_MLflow/raw/main/Screenshots/airflow_2.png)
+![Image alt](https://github.com/YaRoLit/Airflow_MLflow/raw/main/Screenshots/airflow2.png)
 
-![Image alt](https://github.com/YaRoLit/Airflow_MLflow/raw/main/Screenshots/airflow_3.png)
+![Image alt](https://github.com/YaRoLit/Airflow_MLflow/raw/main/Screenshots/airflow3.png)
 
 ![Image alt](https://github.com/YaRoLit/Airflow_MLflow/raw/main/Screenshots/mlflow_1.png)
 
